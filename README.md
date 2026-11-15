@@ -52,13 +52,6 @@ Final project for the **Digital Systems Design** course. This repository impleme
 
 ---
 
-## Repository Structure
-
-```text
-├── Presentation_TX_RX.pptx       # Project presentation (Hebrew)
-├── diagram/                      # Block diagrams (TX, RX, TX_FIFO, RX_FIFO)
-├── waveforms/                    # ModelSim simulation waveforms & transcript
-├── part1_serial_tx_rx_rtl/       # Part 1 RTL (Serial TX/RX)
-├── part1_serial_tx_rx_tb/        # Part 1 Testbenches & tx_data.txt
-├── part2_fifo_tx_rx_rtl/         # Part 2 RTL (FIFO-based TX/RX)
-└── part2_fifo_tx_rx_tb/          # Part 2 Edge-case Testbench & tx_data.txt
+## Authors
+* **Noam Hayu**
+* **Or Zorea**
